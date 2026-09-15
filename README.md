@@ -125,4 +125,4 @@ All projects include:
 
 **Version:** 1.0  
 **Last Updated:** January 29, 2026  
-**Author:** Danilo Côrtes Gonçalves
+**Author:** 
